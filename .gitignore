@@ -1,0 +1,7 @@
+workspace/xcuserdata/*
+*.xccheckout
+*.moved-aside
+*.xcuserstate
+*.xcscmblueprint
+.DS_Store
+Pods
